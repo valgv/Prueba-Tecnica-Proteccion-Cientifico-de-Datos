@@ -1,0 +1,16 @@
+customer_city,customer_state,unique_customers,total_orders,total_items,total_revenue,avg_price_per_item
+sao paulo,SP,15402,15402,17808,1914924.54,107.53
+rio de janeiro,RJ,6834,6834,7837,992538.86,126.65
+belo horizonte,MG,2750,2750,3144,355611.13,113.11
+brasilia,DF,2116,2116,2392,301920.25,126.22
+curitiba,PR,1510,1510,1751,211738.06,120.92
+porto alegre,RS,1372,1372,1612,190562.08,118.21
+campinas,SP,1429,1429,1654,187844.53,113.57
+salvador,BA,1238,1238,1412,181104.42,128.26
+guarulhos,SP,1178,1178,1329,144268.39,108.55
+niteroi,RJ,845,845,980,117907.12,120.31
+goiania,GO,687,687,817,106111.17,129.88
+sao bernardo do campo,SP,928,928,1060,104540.99,98.62
+santos,SP,706,706,820,98777.09,120.46
+fortaleza,CE,650,650,728,97868.06,134.43
+santo andre,SP,792,792,890,92028.6,103.4

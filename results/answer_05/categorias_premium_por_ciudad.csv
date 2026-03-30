@@ -1,0 +1,200 @@
+customer_city,categoria,items_sold,category_revenue,avg_rating
+belo horizonte,health_beauty,276,34056.88,4.26
+belo horizonte,bed_bath_table,355,32343.38,3.83
+belo horizonte,computers_accessories,261,25622.96,3.97
+belo horizonte,watches_gifts,129,25148.01,4.31
+belo horizonte,sports_leisure,216,23482.23,4.21
+belo horizonte,housewares,246,22662.4,3.98
+belo horizonte,furniture_decor,253,19110.87,3.9
+belo horizonte,toys,143,17591.23,4.13
+belo horizonte,auto,105,16081.01,4.03
+belo horizonte,cool_stuff,91,13732.52,3.96
+belo horizonte,baby,101,12107.47,3.84
+belo horizonte,perfumery,92,11570.35,4.35
+belo horizonte,garden_tools,124,11119.11,4.1
+belo horizonte,pet_shop,68,8309.49,4.37
+belo horizonte,telephony,97,7095.98,4.14
+belo horizonte,musical_instruments,16,6944.99,3.4
+belo horizonte,stationery,73,6136.65,4.38
+belo horizonte,office_furniture,36,5995.76,3.47
+belo horizonte,consoles_games,26,5439.01,4.35
+belo horizonte,construction_tools_construction,24,4699.5,4.0
+belo horizonte,small_appliances,14,4376.67,4.79
+belo horizonte,electronics,66,3874.0,3.48
+belo horizonte,fashion_bags_accessories,54,3644.23,4.17
+belo horizonte,luggage_accessories,24,3013.7,4.33
+belo horizonte,home_construction,18,2640.28,3.72
+belo horizonte,furniture_living_room,12,2499.36,3.83
+belo horizonte,small_appliances_home_oven_and_coffee,2,2070.9,5.0
+belo horizonte,computers,2,2036.0,5.0
+belo horizonte,home_appliances_2,9,1994.18,4.25
+belo horizonte,home_confort,15,1973.09,4.27
+belo horizonte,air_conditioning,4,1436.84,3.0
+belo horizonte,audio,11,1421.19,3.45
+belo horizonte,construction_tools_lights,4,1061.29,4.5
+belo horizonte,food_drink,5,1032.46,4.0
+belo horizonte,construction_tools_safety,8,1017.84,3.25
+belo horizonte,kitchen_dining_laundry_garden_furniture,9,822.36,5.0
+belo horizonte,costruction_tools_garden,11,782.8,3.36
+belo horizonte,home_appliances,21,721.73,3.0
+belo horizonte,books_general_interest,11,649.23,4.91
+belo horizonte,fashion_shoes,12,634.4,4.33
+belo horizonte,agro_industry_and_commerce,4,631.9,5.0
+belo horizonte,signaling_and_security,6,496.9,3.67
+belo horizonte,market_place,8,495.77,4.75
+belo horizonte,drinks,7,485.96,4.71
+belo horizonte,food,10,438.2,4.6
+belo horizonte,art,6,416.87,4.67
+belo horizonte,costruction_tools_tools,4,354.45,4.5
+belo horizonte,furniture_bedroom,2,278.9,3.0
+belo horizonte,fashion_male_clothing,4,269.6,3.75
+belo horizonte,la_cuisine,2,266.0,5.0
+belo horizonte,books_technical,3,225.88,5.0
+belo horizonte,fashion_underwear_beach,1,152.0,5.0
+belo horizonte,industry_commerce_and_business,1,79.0,5.0
+belo horizonte,furniture_mattress_and_upholstery,1,75.0,5.0
+belo horizonte,books_imported,1,65.0,5.0
+belo horizonte,dvds_blu_ray,2,64.89,3.0
+belo horizonte,music,1,52.9,1.0
+belo horizonte,diapers_and_hygiene,1,43.0,5.0
+belo horizonte,christmas_supplies,2,36.39,3.0
+belo horizonte,flowers,2,33.2,5.0
+belo horizonte,arts_and_craftmanship,1,25.0,5.0
+belo horizonte,home_comfort_2,1,12.9,4.0
+belo horizonte,fixed_telephony,1,10.99,5.0
+rio de janeiro,watches_gifts,471,93067.74,3.81
+rio de janeiro,health_beauty,578,87016.1,4.12
+rio de janeiro,bed_bath_table,859,78557.86,3.65
+rio de janeiro,sports_leisure,600,71434.46,3.79
+rio de janeiro,computers_accessories,545,65408.21,3.91
+rio de janeiro,furniture_decor,621,56317.82,3.67
+rio de janeiro,toys,350,44183.64,4.17
+rio de janeiro,cool_stuff,262,44010.99,3.92
+rio de janeiro,housewares,490,43972.15,3.91
+rio de janeiro,garden_tools,321,35470.86,3.58
+rio de janeiro,office_furniture,197,30834.13,3.03
+rio de janeiro,auto,195,28162.13,3.99
+rio de janeiro,perfumery,233,28138.84,4.09
+rio de janeiro,baby,177,24223.57,3.74
+rio de janeiro,home_appliances_2,31,23188.02,4.32
+rio de janeiro,stationery,170,17247.29,3.86
+rio de janeiro,telephony,216,17103.66,3.98
+rio de janeiro,fixed_telephony,23,15775.63,2.52
+rio de janeiro,electronics,244,14967.01,3.82
+rio de janeiro,pet_shop,114,13127.06,3.73
+rio de janeiro,musical_instruments,42,12507.9,3.64
+rio de janeiro,small_appliances,41,11777.58,4.44
+rio de janeiro,air_conditioning,44,11099.09,4.0
+rio de janeiro,construction_tools_construction,59,10347.4,3.28
+rio de janeiro,consoles_games,77,10017.72,3.95
+rio de janeiro,furniture_living_room,69,9404.35,3.65
+rio de janeiro,computers,10,8737.49,4.0
+rio de janeiro,fashion_bags_accessories,98,8004.23,4.17
+rio de janeiro,luggage_accessories,65,7834.77,3.91
+rio de janeiro,home_appliances,57,7299.79,4.18
+rio de janeiro,audio,31,5265.57,3.79
+rio de janeiro,agro_industry_and_commerce,20,5103.96,3.7
+rio de janeiro,kitchen_dining_laundry_garden_furniture,31,5020.95,3.93
+rio de janeiro,drinks,41,4675.08,4.44
+rio de janeiro,home_construction,39,3640.25,3.68
+rio de janeiro,home_confort,32,3355.68,3.94
+rio de janeiro,small_appliances_home_oven_and_coffee,6,3116.09,4.33
+rio de janeiro,costruction_tools_garden,18,2738.31,3.89
+rio de janeiro,furniture_bedroom,14,2556.98,3.79
+rio de janeiro,food_drink,29,1889.13,4.28
+rio de janeiro,industry_commerce_and_business,13,1626.8,4.23
+rio de janeiro,construction_tools_safety,11,1617.46,3.5
+rio de janeiro,art,17,1571.77,4.35
+rio de janeiro,food,25,1556.26,4.44
+rio de janeiro,books_general_interest,27,1433.75,4.42
+rio de janeiro,market_place,16,1232.18,4.13
+rio de janeiro,signaling_and_security,13,1154.15,3.77
+rio de janeiro,books_technical,18,1119.9,4.12
+rio de janeiro,construction_tools_lights,8,1019.74,3.63
+rio de janeiro,furniture_mattress_and_upholstery,6,858.49,3.5
+rio de janeiro,fashion_shoes,14,841.3,4.57
+rio de janeiro,music,4,733.9,4.5
+rio de janeiro,tablets_printing_image,7,694.89,4.67
+rio de janeiro,fashion_underwear_beach,8,653.69,3.63
+rio de janeiro,costruction_tools_tools,5,601.89,3.4
+rio de janeiro,fashion_male_clothing,8,585.47,3.88
+rio de janeiro,cine_photo,5,528.6,3.8
+rio de janeiro,dvds_blu_ray,11,382.26,4.1
+rio de janeiro,christmas_supplies,9,331.6,3.33
+rio de janeiro,books_imported,3,218.89,5.0
+rio de janeiro,party_supplies,3,179.8,4.0
+rio de janeiro,diapers_and_hygiene,1,134.9,5.0
+rio de janeiro,flowers,2,64.8,4.5
+rio de janeiro,cds_dvds_musicals,1,45.0,5.0
+rio de janeiro,fashion_sport,1,39.9,5.0
+rio de janeiro,home_comfort_2,3,38.7,
+sao paulo,health_beauty,1756,189591.66,4.15
+sao paulo,bed_bath_table,2028,173717.08,3.97
+sao paulo,watches_gifts,846,166536.45,4.14
+sao paulo,sports_leisure,1413,145790.32,4.22
+sao paulo,computers_accessories,1234,145527.35,4.01
+sao paulo,housewares,1327,105028.35,4.16
+sao paulo,furniture_decor,1274,100612.54,3.98
+sao paulo,toys,660,69845.69,4.13
+sao paulo,cool_stuff,445,67860.87,4.24
+sao paulo,perfumery,550,62223.99,4.21
+sao paulo,auto,558,58672.77,4.21
+sao paulo,baby,489,52607.74,4.06
+sao paulo,garden_tools,475,44772.83,4.17
+sao paulo,office_furniture,248,43236.93,3.5
+sao paulo,telephony,620,38303.64,4.07
+sao paulo,stationery,380,32085.45,4.29
+sao paulo,pet_shop,306,28940.06,4.31
+sao paulo,consoles_games,190,25577.64,4.06
+sao paulo,small_appliances,117,25557.22,4.07
+sao paulo,construction_tools_construction,174,25545.58,4.39
+sao paulo,musical_instruments,101,24176.24,4.36
+sao paulo,fashion_bags_accessories,325,23361.51,4.32
+sao paulo,luggage_accessories,158,21197.91,4.41
+sao paulo,computers,19,20769.58,3.58
+sao paulo,electronics,357,18672.92,4.2
+sao paulo,home_appliances_2,38,16204.69,3.92
+sao paulo,home_appliances,135,11468.93,4.28
+sao paulo,home_confort,82,10573.23,3.93
+sao paulo,agro_industry_and_commerce,45,10463.16,4.04
+sao paulo,small_appliances_home_oven_and_coffee,21,9658.67,3.81
+sao paulo,home_construction,78,8543.43,4.08
+sao paulo,kitchen_dining_laundry_garden_furniture,53,8484.84,3.92
+sao paulo,audio,65,8276.61,4.02
+sao paulo,furniture_living_room,78,8075.12,4.01
+sao paulo,books_general_interest,73,7566.97,4.37
+sao paulo,fixed_telephony,41,7263.36,3.73
+sao paulo,construction_tools_safety,31,7122.51,4.42
+sao paulo,air_conditioning,37,6781.69,3.97
+sao paulo,furniture_bedroom,32,6309.18,4.44
+sao paulo,food,126,6142.41,4.31
+sao paulo,industry_commerce_and_business,33,5704.76,4.0
+sao paulo,construction_tools_lights,42,4815.65,3.86
+sao paulo,signaling_and_security,44,4490.73,4.12
+sao paulo,drinks,85,4080.3,4.31
+sao paulo,market_place,41,3904.01,4.02
+sao paulo,costruction_tools_tools,11,3105.0,4.9
+sao paulo,books_technical,42,3087.39,4.76
+sao paulo,food_drink,72,3009.15,4.46
+sao paulo,art,33,2914.61,3.56
+sao paulo,costruction_tools_garden,35,2911.77,3.91
+sao paulo,dvds_blu_ray,9,2461.58,3.89
+sao paulo,fashion_shoes,30,1965.69,4.03
+sao paulo,fashion_male_clothing,22,1456.2,3.86
+sao paulo,books_imported,22,1402.83,4.23
+sao paulo,fashion_underwear_beach,20,1268.95,4.25
+sao paulo,cine_photo,15,1140.52,4.33
+sao paulo,music,4,1133.28,4.75
+sao paulo,furniture_mattress_and_upholstery,9,785.3,4.22
+sao paulo,fashio_female_clothing,15,763.64,3.87
+sao paulo,tablets_printing_image,9,645.68,4.11
+sao paulo,christmas_supplies,14,441.71,4.64
+sao paulo,diapers_and_hygiene,8,390.69,3.88
+sao paulo,home_comfort_2,8,310.29,3.88
+sao paulo,party_supplies,5,286.38,3.8
+sao paulo,la_cuisine,2,280.0,1.0
+sao paulo,fashion_childrens_clothes,4,279.97,5.0
+sao paulo,flowers,5,272.09,3.6
+sao paulo,fashion_sport,4,259.6,4.75
+sao paulo,cds_dvds_musicals,4,240.0,4.75
+sao paulo,arts_and_craftmanship,2,159.39,4.0

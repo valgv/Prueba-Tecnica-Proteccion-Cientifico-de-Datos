@@ -1,0 +1,123 @@
+{
+  "cama_mesa_banho": {
+    "category_key": "cama_mesa_banho",
+    "category_display_name": "Cama, Baño y Mesa",
+    "pricing": {
+      "avg_BRL": 93.3,
+      "median_BRL": 93.3,
+      "min_BRL": 6.99,
+      "max_BRL": 1999.98,
+      "currency": "BRL"
+    },
+    "units_sold": 11115,
+    "total_revenue": 1036988.68,
+    "description": "Renueva cada rincón de tu hogar con nuestra colección premium de cama, baño y mesa. Desde sábanas de alto hilo que transforman el descanso hasta toallas ultra absorbentes y manteles que elevan cada comida a una experiencia especial. Diseños modernos y clásicos que combinan estética y funcionalidad, con textiles suaves al tacto y resistentes al uso diario. Calidad que se siente desde el primer uso, diseñada para durar y deleitar.",
+    "key_features": [
+      "Materiales certificados sin sustancias nocivas",
+      "Alta durabilidad tras múltiples lavados",
+      "Amplia variedad de tamaños y colores",
+      "Textiles suaves, hipoalergénicos y transpirables",
+      "Envío protegido y devolución sin complicaciones"
+    ],
+    "use_cases": [
+      "Renovación del hogar",
+      "Regalo ideal",
+      "Hostelería y Airbnb",
+      "Mejora de la experiencia de descanso",
+      "Decoración de espacios interiores"
+    ],
+    "cross_sell_opportunities": [
+      "Decoración del hogar",
+      "Iluminación",
+      "Muebles auxiliares"
+    ],
+    "seasonality": [
+      "Alta demanda en fin de año",
+      "Picos en temporadas de descuentos",
+      "Incremento en cambios de estación"
+    ],
+    "data_source": "olist_datasets",
+    "last_updated": "2026-03-29"
+  },
+  "beleza_saude": {
+    "category_key": "beleza_saude",
+    "category_display_name": "Salud y Belleza",
+    "pricing": {
+      "avg_BRL": 130.16,
+      "median_BRL": 130.16,
+      "min_BRL": 1.2,
+      "max_BRL": 3124.0,
+      "currency": "BRL"
+    },
+    "units_sold": 9670,
+    "total_revenue": 1258681.34,
+    "description": "Descubre nuestra selección curada de los mejores productos de salud y belleza diseñados para potenciar tu bienestar integral. Desde rutinas de skincare con activos de última generación hasta suplementos y herramientas de cuidado personal. Ofrecemos soluciones para diferentes tipos de piel, necesidades y estilos de vida, combinando innovación, seguridad y resultados visibles. Tu bienestar merece lo mejor: marcas reconocidas, formulaciones seguras, experiencias que elevan tu rutina diaria y precios que sorprenden gratamente.",
+    "key_features": [
+      "Fórmulas dermatológicamente testeadas",
+      "Opciones sin parabenos ni fragancias agresivas",
+      "Certificaciones cruelty-free y sostenibles",
+      "Amplia gama para diferentes tipos de piel y necesidades",
+      "Empaque seguro y protegido para envío"
+    ],
+    "use_cases": [
+      "Cuidado personal diario",
+      "Regalos premium",
+      "Bienestar físico y emocional",
+      "Rutinas de skincare especializadas",
+      "Autocuidado y spa en casa"
+    ],
+    "cross_sell_opportunities": [
+      "Accesorios de belleza",
+      "Productos de cuidado capilar",
+      "Fitness y bienestar"
+    ],
+    "seasonality": [
+      "Alta demanda en fechas especiales",
+      "Picos en campañas de descuentos",
+      "Incremento en tendencias virales y lanzamientos"
+    ],
+    "data_source": "olist_datasets",
+    "last_updated": "2026-03-29"
+  },
+  "esporte_lazer": {
+    "category_key": "esporte_lazer",
+    "category_display_name": "Deportes y Ocio",
+    "pricing": {
+      "avg_BRL": 114.34,
+      "median_BRL": 114.34,
+      "min_BRL": 4.5,
+      "max_BRL": 4059.0,
+      "currency": "BRL"
+    },
+    "units_sold": 8641,
+    "total_revenue": 988048.97,
+    "description": "Lleva tu rendimiento al siguiente nivel con equipamiento deportivo y de ocio de alta calidad, diseñado para acompañarte en cada desafío. Nuestra línea cubre desde el entrenamiento más intenso hasta las aventuras al aire libre, con productos duraderos, funcionales y adaptados a diferentes niveles de experiencia. Ya sea que busques mejorar tu condición física, explorar nuevas aventuras o disfrutar de tu tiempo libre, aquí encontrarás aliados confiables para cada objetivo. Invierte en tu salud hoy: tu versión futura te lo agradecerá.",
+    "key_features": [
+      "Material de alta resistencia para uso intensivo",
+      "Diseño ergonómico, liviano y funcional",
+      "Tallas completas para todos los perfiles",
+      "Amplia variedad de disciplinas y categorías",
+      "Opciones para principiantes y atletas avanzados",
+      "Garantía extendida en productos seleccionados"
+    ],
+    "use_cases": [
+      "Entrenamiento diario",
+      "Actividades outdoor",
+      "Recuperación y rehabilitación",
+      "Ocio y entretenimiento",
+      "Preparación para cometencias"
+    ],
+    "cross_sell_opportunities": [
+      "Ropa deportiva",
+      "Tecnología wearable",
+      "Nutrición deportiva"
+    ],
+    "seasonality": [
+      "Alta demanda en inicio de año",
+      "Picos antes de vacaciones",
+      "Incremento en eventos deportivos"
+    ],
+    "data_source": "olist_datasets",
+    "last_updated": "2026-03-29"
+  }
+}
