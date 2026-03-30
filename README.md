@@ -91,7 +91,7 @@ Cada análisis genera archivos en `results/answer_XX/`:
 - **CSV**: Datos procesados
 - **JSON**: Bases de conocimiento
 - **HTML**: Mapas interactivos
-- **PNG**: Visualizaciones (cuando aplica)
+- **PNG**: Visualizaciones
 
 ---
 
@@ -108,7 +108,7 @@ Cada análisis genera archivos en `results/answer_XX/`:
 
 ## 📈 Datasets
 
-9 tablas CSV del sistema OLIST e-commerce:
+9 tablas CSV del sistema e-commerce:
 - Clientes, pedidos, items, pagos, reseñas, productos, categorías, vendedores, geolocalización
 
 **Total:** 93,358 clientes únicos | 99,441 pedidos | 112,650 items
